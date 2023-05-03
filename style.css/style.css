@@ -1,3 +1,12 @@
+header{
+    background-color: #2c3e50;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+}
+
 section.profile{
     background-color: #1abc9c;
 }
@@ -42,7 +51,7 @@ div.footer-lower{
     font-size: 1.2rem;                                                                                 
 }
 
-div.flex_cs{
+.flex_cs{
     display: flex;
 }
 
