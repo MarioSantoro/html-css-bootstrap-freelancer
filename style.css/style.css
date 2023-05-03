@@ -1,5 +1,7 @@
 header{
     background-color: #2c3e50;
+    position: fixed;
+    width: 100%;
 }
 
 ul{
@@ -9,6 +11,7 @@ ul{
 
 section.profile{
     background-color: #1abc9c;
+    padding-top: 120px;
 }
 
 section.profile img{
