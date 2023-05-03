@@ -7,13 +7,17 @@ section.profile img{
     height: 250px;
 }
 
+section.about{
+    background-color: #1abc9c;
+}
+
 div.bar-white{
     height: 4px;
     width: 15%;
     border-radius: 1rem;
 }
 
- i{
+i{
     font-size: 1.8rem;
 }
 
