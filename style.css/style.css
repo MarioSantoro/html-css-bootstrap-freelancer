@@ -3,6 +3,7 @@ header{
     background-color: #2c3e50;
     position: fixed;
     width: 100%;
+    z-index: 1;
 }
 
 ul{
@@ -73,4 +74,12 @@ div.footer-lower{
 
 .bg-green_cs{
     background-color: #1abc9c;
+}
+
+.img_cs{
+    height: 222px;
+}
+
+.height-100{
+    height: 100%;
 }
